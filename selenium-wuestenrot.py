@@ -1,4 +1,3 @@
-# scrapper-lib
 #!/usr/bin/env python
 # coding: utf8
 from selenium import webdriver
